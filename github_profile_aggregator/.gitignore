@@ -1,0 +1,6 @@
+# Local environment secrets
+.env
+
+# App log archives
+logs/
+*.log

@@ -35,7 +35,7 @@ Each project includes its own documentation explaining:
 | Stage              | Topics                                                      | Status |
 | ------------------ | ----------------------------------------------------------- | ------ |
 | Python for AI      | Python, APIs, Async Programming, File Handling              |COMPLETED|
-| FastAPI            | REST APIs, Validation, Authentication, Database Integration | ⏳      |
+| FastAPI            | REST APIs, Validation, Authentication                       |COMPLETED|
 | LLM Fundamentals   | Prompt Engineering, Structured Outputs, Function Calling    | ⏳      |
 | RAG                | Embeddings, Vector Databases, Semantic Search               | ⏳      |
 | AI Agents          | Tool Calling, Memory, Agent Workflows                       | ⏳      |

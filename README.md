@@ -36,7 +36,7 @@ Each project includes its own documentation explaining:
 | ------------------ | ----------------------------------------------------------- | ------ |
 | Python for AI      | Python, APIs, Async Programming, File Handling              |COMPLETED|
 | FastAPI            | REST APIs, Validation, Authentication                       |COMPLETED|
-| LLM Fundamentals   | Prompt Engineering, Structured Outputs, Function Calling    | ⏳      |
+| LLM Fundamentals   | Prompt Engineering, Structured Outputs, Function Calling    |COMPLETED|
 | RAG                | Embeddings, Vector Databases, Semantic Search               | ⏳      |
 | AI Agents          | Tool Calling, Memory, Agent Workflows                       | ⏳      |
 | AI Orchestration   | Multi-Agent Systems, Workflow Management                    | ⏳      |

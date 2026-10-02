@@ -12,12 +12,6 @@ The goal is to build a strong foundation in:
 * Backend Development with FastAPI
 * Large Language Models (LLMs)
 * Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* AI Orchestration
-* Vector Databases
-* Cloud Deployment
-* Production-ready AI Applications
 
 Each project includes its own documentation explaining:
 

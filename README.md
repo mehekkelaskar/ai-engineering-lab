@@ -37,10 +37,7 @@ Each project includes its own documentation explaining:
 | Python for AI      | Python, APIs, Async Programming, File Handling              |COMPLETED|
 | FastAPI            | REST APIs, Validation, Authentication                       |COMPLETED|
 | LLM Fundamentals   | Prompt Engineering, Structured Outputs, Function Calling    |COMPLETED|
-| RAG                | Embeddings, Vector Databases, Semantic Search               | ⏳      |
-| AI Agents          | Tool Calling, Memory, Agent Workflows                       | ⏳      |
-| AI Orchestration   | Multi-Agent Systems, Workflow Management                    | ⏳      |
-| Cloud & Deployment | Docker, AWS, CI/CD                                          | ⏳      |
+
 
 ---
 
@@ -60,13 +57,9 @@ Every project in this repository is created with the goal of understanding how a
 
 * Python
 * FastAPI
-* PostgreSQL
 * Docker
 * Git & GitHub
 * Large Language Models (LLMs)
-* Vector Databases
-* AI Agent Frameworks
-* Cloud Platforms (AWS)
 
 ---
 
